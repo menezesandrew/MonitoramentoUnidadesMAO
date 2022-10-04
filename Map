@@ -1,0 +1,14 @@
+[
+  {
+    "key" : "SEDE",
+    "name" : "SEDE ADMINISTRATIVA",
+    "latitude" : 3.10120490716,
+    "longitude" : -59.9967827968
+  },
+    {
+    "key" : "PDI",
+    "name" : "PONTA DO ISMAEL - PDI",
+    "latitude" : -3.1153083695,
+    "longitude" : -60.0566483178
+  }
+]
